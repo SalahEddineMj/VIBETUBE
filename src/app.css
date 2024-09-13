@@ -1,0 +1,14 @@
+.react-player {
+  width: 100% !important;
+  /* height: 410px !important; */
+}
+@media (max-width: 900px) {
+  .react-player {
+    height: 200px !important;
+  }
+}
+@media (min-width: 901px) {
+  .react-player {
+    height: 410px !important;
+  }
+}
